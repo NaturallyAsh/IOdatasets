@@ -1,0 +1,13 @@
+Package: IOdatasets
+Type: Package
+Title: IO Datasets
+Version: 0.1.0
+Author: Ashleigh Wilson
+Maintainer: Ashleigh Wilson <ash.wil.1990@gmail.com>
+Description: A collection of datasets relevant to Industrial-Organizational Psychology and People Analytics.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.2

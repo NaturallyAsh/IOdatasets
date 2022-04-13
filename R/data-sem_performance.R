@@ -1,0 +1,19 @@
+#' Performance data for Structural Equation Modeling
+#'
+#' Fictional employee performance dataset
+#'
+#' @format A dataframe with 1000 rows and 9 variables:
+#' \describe{
+#' \item{PsychTest1}{scores between 1-100}
+#' \item{PsychTest2}{scores between 1-100}
+#' \item{YrsEdu}{number of years of higher education followed}
+#' \item{IQ}{score on an IQ test}
+#' \item{HrsTrain}{number of hours spent on training}
+#' \item{HrsWrk}{average number of hours in a workweek}
+#' \item{ClientSat}{a satisfaction rating between 1-100 by the main client}
+#' \item{SuperSat}{a rating on job performance between 1-100 by the supervisor}
+#' \item{ProjCompl}{the percentage of projects that were successfully delivered}
+#' }
+#' @examples
+#' sem_performance
+"sem_performance"
